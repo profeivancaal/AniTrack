@@ -1,0 +1,41 @@
+ANITRACK — LICENCIA DE USO GRATUITO
+
+Copyright © 2026 Ren Kael. Todos los derechos reservados.
+
+AniTrack es una aplicación gratuita destinada principalmente al uso personal para organizar y registrar bibliotecas de anime.
+
+1. USO GRATUITO
+Se permite descargar, instalar y utilizar AniTrack gratuitamente para uso personal.
+
+2. DONACIONES
+Las donaciones son completamente voluntarias y no desbloquean funciones, características ni versiones especiales de AniTrack.
+
+3. COPIAS DE RESPALDO
+Se permite conservar copias del programa para respaldo personal.
+
+4. REDISTRIBUCIÓN
+No se permite vender AniTrack, cobrar por su distribución, incluirlo como producto de pago ni redistribuir versiones modificadas sin autorización expresa del desarrollador.
+
+5. MODIFICACIÓN Y AUTORÍA
+No se permite distribuir una versión modificada presentándola como producto oficial de AniTrack ni eliminar o falsificar los créditos de autoría.
+
+6. CÓDIGO FUENTE
+Esta licencia no implica que AniTrack sea software de código abierto. La publicación del código fuente queda a decisión del desarrollador.
+
+7. DATOS DEL USUARIO
+AniTrack no reclama propiedad sobre la biblioteca, notas, portadas ni demás información introducida por el usuario.
+
+8. CONTENIDO Y MARCAS DE TERCEROS
+AniTrack no reproduce ni distribuye contenido audiovisual. Los nombres, imágenes, marcas y demás material relacionado con obras de terceros pertenecen a sus respectivos titulares.
+
+9. ACTUALIZACIONES
+Las actualizaciones oficiales de AniTrack serán distribuidas mediante los canales reconocidos oficialmente por el proyecto.
+
+10. GARANTÍA
+AniTrack se proporciona gratuitamente tal como está. No se garantiza que el software esté completamente libre de errores. Se recomienda mantener copias de respaldo periódicas de la biblioteca.
+
+11. CAMBIOS FUTUROS
+Esta licencia puede actualizarse en futuras versiones de AniTrack. Los cambios deberán identificarse mediante una nueva versión o fecha de la licencia.
+
+Desarrollado por Ren Kael
+AniTrack · 2026
